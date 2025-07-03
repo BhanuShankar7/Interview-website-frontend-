@@ -15,7 +15,7 @@ const QUESTIONS = [
 ];
 
 const EXPECTED_KEYWORDS = {
-  0: ["experience", "skills", "background", "projects", "education"],
+  0: ["experience",  "skills", "background", "projects", "education"],
   1: ["success", "project", "team", "impact", "result"],
   2: ["communication", "collaboration", "resolution", "approach", "solution"],
   3: ["goals", "growth", "career", "development", "progress"],
